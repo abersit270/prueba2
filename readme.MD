@@ -13,3 +13,12 @@ Estamos aprendiendo a trabajar  con **GIT** y para eso hemos creado este reposit
 ## FLUJO DE TRABAJO DE GIT
 
 Para añadir un fichero a nuestro repositorio remoto desde [GitHub](https://github.com/) tenemos que seguir los siguientes pasos
+```
+git status
+
+git add
+
+git commit
+```
+
+![Imagen](https://cdn.prod.website-files.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg)
